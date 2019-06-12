@@ -1,0 +1,14 @@
+{
+  "name": "audreys-service",
+  "version": "1.0.0",
+  "description": "Test service with authentication for IFTTT platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Audrey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
